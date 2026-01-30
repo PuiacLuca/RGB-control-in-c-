@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1769586635 source:c:\clasa 9 cc++\puiac\key press\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	<conio.h>
+
